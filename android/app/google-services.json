@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172304220511",
+    "firebase_url": "https://flutterpushnotif-d580f.firebaseio.com",
+    "project_id": "flutterpushnotif-d580f",
+    "storage_bucket": "flutterpushnotif-d580f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172304220511:android:f58e32503f4d48227bb6ea",
+        "android_client_info": {
+          "package_name": "com.medsedki.flutterpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172304220511-d6ion2ff84c69asn06ic2k030267rtvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAxP3K684Xlq8h4bBcY6kuG0IVilEjPEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172304220511-d6ion2ff84c69asn06ic2k030267rtvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
